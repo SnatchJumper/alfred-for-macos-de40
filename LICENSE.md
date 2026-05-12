@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Alfred for macOS script with Alfred for macOS professional Script - version history and tags. Featuring version history and tags, it's the best choice for macOS
 
 
 
